@@ -27,6 +27,12 @@ Options for Text Editor
     -k => file with the key to use
     
     -f => file to encrypt / decrypt
+
+### Compilation
+
+    gcc -o editor_text.c
+    
+    gcc -o vignere vignere.c
  
 ### Remarks:
   
